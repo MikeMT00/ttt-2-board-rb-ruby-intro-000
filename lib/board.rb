@@ -8,5 +8,3 @@ board[1]
 
 # Position 3: Right
 board[2]
-
-board = Array.new(9, " ")
